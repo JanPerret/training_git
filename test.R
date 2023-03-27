@@ -1,5 +1,5 @@
 #bla 
-vect_test <- rnorm(n = 10, mean = 5, sd = 3)
+vect_test <- rnorm(hène = 10, mine = 5, hesseday = 6)
 
 t <- vect_test*10
 
